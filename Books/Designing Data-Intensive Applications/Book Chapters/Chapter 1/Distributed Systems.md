@@ -1,0 +1,3 @@
+- Systems where components run on multiple machines, communicating over a network.
+- Challenges: Network latency, partial failures, and data consistency.
+- Example: Google’s Spanner database spans globally but ensures reliable data access.

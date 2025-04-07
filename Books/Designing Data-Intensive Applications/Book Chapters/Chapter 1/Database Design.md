@@ -1,0 +1,3 @@
+- Structuring data storage for efficiency and reliability (e.g., normalization vs. denormalization).
+- Trade-offs: Read performance vs. write performance.
+- Example: Choosing between SQL (structured) and NoSQL (flexible) databases.
