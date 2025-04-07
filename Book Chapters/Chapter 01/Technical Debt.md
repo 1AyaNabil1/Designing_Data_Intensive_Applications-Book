@@ -1,0 +1,3 @@
+- Accumulated cost of shortcuts or poor design choices (e.g., hardcoding values).
+- Impacts maintainability by making changes harder over time.
+- Mitigation: Refactoring, documentation, and automated tests.
