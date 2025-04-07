@@ -1,3 +1,0 @@
-- Optimizing systems for speed and resource efficiency.
-- Techniques: Profiling (find bottlenecks), indexing (speed up queries), and concurrency (handle multiple tasks).
-- Example: Reducing p99 latency in a web app by caching database results.

@@ -1,3 +1,0 @@
-- Designing systems to continue functioning despite component failures.
-- Techniques: Redundancy (e.g., replicate data across servers), failover (e.g., switch to a backup system), and error handling (e.g., retries).
-- Example: A web app stays online even if one server dies by routing traffic to another.

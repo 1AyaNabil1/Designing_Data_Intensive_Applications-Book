@@ -1,3 +1,0 @@
-- Modularity: Break systems into small, independent components (e.g., microservices).
-- Abstraction: Hide complexity behind clean interfaces (e.g., APIs).
-- Example: A well-designed REST API makes it easier to update backend logic without breaking clients.

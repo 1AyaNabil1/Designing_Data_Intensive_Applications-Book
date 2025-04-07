@@ -1,4 +1,0 @@
-- Load balancing: Distribute traffic across multiple servers (e.g., using a round-robin algorithm).
-- Caching: Store frequently accessed data in memory (e.g., Redis or Memcached).
-- Partitioning: Split data across nodes (e.g., sharding a database by user ID).
-- Example: Netflix uses horizontal scaling to handle millions of streaming requests.
