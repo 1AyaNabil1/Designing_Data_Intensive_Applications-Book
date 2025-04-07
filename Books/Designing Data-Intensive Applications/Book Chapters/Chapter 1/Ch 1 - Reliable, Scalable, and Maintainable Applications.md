@@ -1,4 +1,4 @@
-_Chapter 1 of [[Designing Data-Intensive Applications.pdf]] by Martin Kleppmann_
+_Chapter 1 of [Book](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/f05d9e1ef390b7bc29852384fd65a6f99d5faf07/Books/Designing%20Data-Intensive%20Applications/Designing%20Data-Intensive%20Applications.pdf) by Martin Kleppmann_
 
 ## Overview
 
@@ -17,7 +17,7 @@ _Chapter 1 of [[Designing Data-Intensive Applications.pdf]] by Martin Kleppmann_
     - Software errors (e.g., bugs or unexpected inputs).
     - Human mistakes (e.g., misconfigurations).
 - Goal: Minimize downtime and ensure consistent performance.
-- Links: [[Fault Tolerance]], [[Reliability Metrics]]
+- Links: [Fault Tolerance](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/Fault%20Tolerance.md), [Reliability Metrics](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/Reliability%20Metrics.md)
 
 ### Scalability
 
@@ -29,7 +29,7 @@ _Chapter 1 of [[Designing Data-Intensive Applications.pdf]] by Martin Kleppmann_
     - **Throughput**: Transactions or operations per second.
     - **Latency**: Time taken to process a request (e.g., percentiles like p95, p99).
 - Approaches: Vertical scaling (bigger machines) vs. horizontal scaling (more machines).
-- Links: [[Scalability Patterns]], [[Load Balancing]]
+- Links: [Scalability Patterns](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/Scalability%20Patterns.md), [Load Balancing](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/Load%20Balancing.md)
 
 ### Maintainability
 
@@ -39,7 +39,7 @@ _Chapter 1 of [[Designing Data-Intensive Applications.pdf]] by Martin Kleppmann_
     - **Simplicity**: Reduce complexity to avoid bugs and confusion.
     - **Evolvability**: Allow the system to adapt to changing requirements.
 - Trade-off: Building simple systems often requires more upfront design effort.
-- Links: [[System Design Principles]], [[Technical Debt]]
+- Links: [System Design Principles](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/System%20Design%20Principles.md), [Technical Debt](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/Technical%20Debt.md)
 
 ## Why These Matter
 
@@ -63,6 +63,6 @@ _Chapter 1 of [[Designing Data-Intensive Applications.pdf]] by Martin Kleppmann_
 
 ## Related Topics
 
-- [[Distributed Systems]]
-- [[Database Design]]
-- [[Performance Engineering]]
+- [Distributed Systems](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/Distributed%20Systems.md)
+- [Database Design](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/Database%20Design.md)
+- [Performance Engineering](https://github.com/1AyaNabil1/Designing_Data_Intensive_Applications-Book/blob/3a86fc2db0c36cd63c19d440065e617e739d868b/Books/Designing%20Data-Intensive%20Applications/Book%20Chapters/Chapter%201/Performance%20Engineering.md)
